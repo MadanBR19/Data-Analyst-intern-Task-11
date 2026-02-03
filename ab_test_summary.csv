@@ -1,0 +1,8 @@
+| Metric          | Control | Test  |
+| --------------- | ------- | ----- |
+| Users           | 5000    | 5000  |
+| Conversions     | 650     | 720   |
+| Conversion Rate | 13.0%   | 14.4% |
+| Lift            | —       | +1.4% |
+| p-value         | —       | 0.032 |
+| Significant?    | —       | Yes   |
