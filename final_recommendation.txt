@@ -1,0 +1,11 @@
+A/B Test Result Summary
+
+The A/B test compared conversion rates between the Control and Test groups.
+
+Control Conversion Rate: 13.0%
+
+Test Conversion Rate: 14.4%
+
+p-value: 0.032
+
+Confidence Interval of difference: (0.001 – 0.027)
